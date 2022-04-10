@@ -1,6 +1,6 @@
 numpy==1.19.5
-pandas_profiling==2.10.0
+pandas_profiling==3.1.0
 streamlit==0.76.0
-pandas==1.2.1
+pandas==1.4.2
 streamlit_pandas_profiling==0.1.1
 click==8
